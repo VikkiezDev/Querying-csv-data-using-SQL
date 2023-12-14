@@ -42,7 +42,3 @@ streamlit run customer_data_analysis.py
 ## Contributing
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your feedback is highly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
